@@ -1,0 +1,27 @@
+body {
+    padding: 40px 500px;
+    background: linear-gradient(red,red,red,white,white,darkblue,darkblue,darkblue,sandybrown,sandybrown,sandybrown,purple,purple,black,black,pink,pink,pink,orange,orange);
+    font-size: 20px;
+    box-shadow: o 4px 8px rgba(0,0,0,0.2);
+}
+img {
+    border-radius: 150px;
+    border: solid 5px black;
+}
+h1 {
+    background-color: white;
+    text-align: center;
+    padding: 0px 35px;
+    border-radius: 50px;
+    border: solid 5px black;
+}
+h2 {
+    padding: 0px 30px;
+}
+button {
+    border-radius: 30px;
+    cursor: pointer;   
+}
+button:hover {
+    background-color: lightgray;
+}
